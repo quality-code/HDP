@@ -1,0 +1,8 @@
+ABBR  NAME           LAND_KM
+AA    Antartica      13209000
+NA    North America  24256000
+SA    South America  17819000
+EU    Europe          9938000
+AS    Asia           44579000
+AU    Australia       7687000
+AF    Africa         30065000
